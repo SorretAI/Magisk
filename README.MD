@@ -6,6 +6,11 @@
 
 ## Introduction
 
+"It is with great pleasure that I offer this example for the community who will always travel to the rithym of
+what makes their own hear sing, enjoy. Kudos to the original developer, kids keep you upstreams and origins
+point to the original repo community and offer something you wou've wanted to find when times in need for good
+aps were scarce. To the infinite and beyond" Sorret
+
 Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 6.0.<br>
 Some highlight features:
 
